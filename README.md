@@ -29,7 +29,7 @@ To enable the app to access to your OCM instance and APIs - you will need to con
 If you do not do this on the instance or configure it incorrectly in OCM you will just see a white page when you add your OCM Instance into OCM-GO.
 
 # Features Quick Overview & Guide
-- [Installation](/OCM-GO/wiki/Installation)
+- [Installation](https://github.com/JohnRSim/OCM-GO/wiki/Installation)
 
 ### OCM-GO Desktop App
 - Create connections to login to multiple OCM instances
