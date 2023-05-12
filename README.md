@@ -32,7 +32,7 @@ If you do not do this on the instance or configure it incorrectly in OCM you wil
 - [Installation](https://github.com/JohnRSim/OCM-GO/wiki/Installation)
 
 ### OCM-GO Desktop App
-- Create connections to login to multiple OCM instances
+- [Create connections to login to multiple OCM instances](https://github.com/JohnRSim/OCM-GO/wiki/Add-OCM-Instance)
 - Enable one or more Virtual drives 
 - Search for assets
 - Add a single asset to favourites or create a favourites bucket
