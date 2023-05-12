@@ -55,7 +55,8 @@ If you do not do this on the instance or configure it incorrectly in OCM you wil
 #### Digital Assets
 - Create, Rename, Update, Delete, Move
 #### Assets
-- Edit Meta Data (use OCM Go and Open-With feature in windows to edit meta data of assets within the OCM-GO App)
+- Edit Meta Data 
+- - (use OCM Go and Open-With feature in windows to edit meta data of assets within the OCM-GO App)
 
 
 ### Virtual Drive Structure
