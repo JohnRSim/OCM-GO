@@ -12,8 +12,10 @@ Coming soon..
 - Windows
 - Mac (WIP)
 
-# Getting Started
-OCM-GO runs as an internal local server to enable the app to access to your OCM instance and APIs - you will need to configure the OCM Security Policy.
+# Prerequisite
+_OCM-GO runs as an internal local server_
+
+To enable the app to access to your OCM instance and APIs - you will need to configure the OCM Security Policy.
 
 1. Launch your OCM instance within a web browser
 2. Go into Administration >> System >> Security
@@ -27,6 +29,8 @@ OCM-GO runs as an internal local server to enable the app to access to your OCM 
 If you do not do this on the instance or configure it incorrectly in OCM you will just see a white page when you add your OCM Instance into OCM-GO.
 
 # Features Quick Overview & Guide
+- Installation
+
 ### OCM-GO Desktop App
 - Create connections to login to multiple OCM instances
 - Enable one or more Virtual drives 
