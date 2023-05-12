@@ -8,7 +8,10 @@ https://bitmapbytes.com/oracle-content-managements-new-desktop-app-coming-soon/
 
 
 # Quick example
-Launching the app, adding an OCM Instance, enabling the virtual drive, opening a pdf
+Here is a quick 15 sec preview.
+
+__Launching the app, adding an OCM Instance, logging in, enabling the virtual drive, opening a pdf__
+
 https://github.com/JohnRSim/OCM-GO/assets/364208/87f19e2e-1caf-4afc-8e68-75c954c44907
 
 
