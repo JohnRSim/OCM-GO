@@ -7,7 +7,8 @@ Enabling editors to quickly and more easily manage and drill into an OCM Reposit
 https://bitmapbytes.com/oracle-content-managements-new-desktop-app-coming-soon/
 
 
-
+# Quick example
+Launching the app, adding an OCM Instance, enabling the virtual drive, opening a pdf
 https://github.com/JohnRSim/OCM-GO/assets/364208/87f19e2e-1caf-4afc-8e68-75c954c44907
 
 
