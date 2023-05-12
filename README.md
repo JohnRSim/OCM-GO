@@ -1,7 +1,7 @@
 ![assetEditor-update](https://github.com/JohnRSim/OCM-GO/assets/364208/763b7a31-67be-4e2e-a894-a9b410ef653a)
 
 # Overview
-OCM Go is a new Desktop App; designed to enhance the editor experience of Oracle Content Management Assets via a local network drive. 
+__OCM Go__ is a new Desktop App; designed to enhance the editor experience of Oracle Content Management Assets via a local network drive. 
 Enabling editors to quickly and more easily manage and drill into an OCM Repository and taxonomy category folders to access, edit and update assets faster.  
 
 https://bitmapbytes.com/oracle-content-managements-new-desktop-app-coming-soon/
