@@ -12,13 +12,28 @@ Coming soon..
 - Windows
 - Mac (WIP)
 
-# Features Quick Overview
+# Getting Started
+OCM-GO runs as an internal local server to enable the app to access to your OCM instance and APIs - you will need to configure the OCM Security Policy.
+
+1. Launch your OCM instance within a web browser
+2. Go into Administration >> System >> Security
+3. Add http://127.0.0.1:5173 to Front Channel CORS Origins & Allowed domains
+4. Select Enable Radio on the Embedded Content
+5. Select Save button
+
+![image](https://github.com/JohnRSim/OCM-GO/assets/364208/53eeefd8-e340-44bc-aca0-343a50696cd5)
+
+#### Note
+If you do not do this on the instance or configure it incorrectly in OCM you will just see a white page when you add your OCM Instance into OCM-GO.
+
+# Features Quick Overview & Guide
 ### OCM-GO Desktop App
 - Create connections to login to multiple OCM instances
 - Enable one or more Virtual drives 
 - Search for assets
 - Add a single asset to favourites or create a favourites bucket
 - Save search query
+- Configure OCM instance
 
 ### OCM-GO Virtual Drive
 #### Folders (Taxonomy Categories)
@@ -35,7 +50,21 @@ When you enable the virtual drive it is made up of 3 key folders.
 - - Drilling into a repository will then list all taxonomies you have access to within the repository
 - - - Drilling into a taxonomy will list all Categories you have access to
 
-Assets mapped to categories will be displayed in the open category folder.
+![image](https://github.com/JohnRSim/OCM-GO/assets/364208/b94c50e5-c875-48e7-9b6e-7778061acfc1)
+
+#### Note
+- Assets that are mapped to categories are displayed when opening a category folder.
+- Assets that are not mapped to a category will not be available or listed within the virtual drive.
+
+#### Limitations
+- Folders are restricted to list only 5,000 assets
+
+### Important
+- You cannot rename a Repository or Taxonomy from the virtual drive. 
+- If you try to delete a repository all assets and categories from the repository will be removed for the taxonomies you have access to.. _(the taxonomy and repository will remain.)_
+- Assets that are referenced will not be deleted until the reference is manually removed.
+- *.OCMA Files cannot be moved or deleted currently - you can only edit these using the open-with OCM-GO feature.
+- Moving a digital asset from one folder to another will clear all other associated categories and will be replaced with the target category location
 
 
 ---
